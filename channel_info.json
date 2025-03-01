@@ -1,0 +1,6 @@
+{
+    "name": "Art History Chat",
+    "endpoint": "http://localhost:5001",
+    "authkey": "1234567890",
+    "type_of_service": "aiweb24:chat"
+}

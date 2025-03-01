@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+requests
+textblob
+better_profanity
+scikit-learn
+CORS
+Flask-Login
